@@ -1,7 +1,7 @@
 # Prebuilt Library for Windows x86
 
 ***
-include the below library
+include the below libraries 
 * [protobuf-v3.6.1](https://github.com/protocolbuffers/protobuf/releases/download/v3.6.1/protobuf-cpp-3.6.1.zip)
 * [paho-mqtt-c-v1.2.1](https://github.com/eclipse/paho.mqtt.c/archive/v1.2.1.zip)
 * [paho-mqtt-cpp-v1.0.0](https://github.com/eclipse/paho.mqtt.cpp/archive/v1.0.0.zip)
